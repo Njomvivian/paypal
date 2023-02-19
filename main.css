@@ -1,0 +1,13 @@
+.button {
+    border-radius: 25px;
+    width: 70px;
+}
+
+.button2 {
+    border-radius: 25px;
+}
+
+.container-fliud1{
+    background-image: url(https://www.paypalobjects.com/webstatic/en_GB/mktg/wright/home/homepage-hero-1x.jpg);
+    background-size: cover;
+}
